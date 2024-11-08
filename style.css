@@ -1,10 +1,7 @@
-body {
-    text-align: center;
-}
+body {text-align: center; background-color: black;}
 
-h1 {
-    color: blue;
-}
+
+h1 {color: yellow;}
 
 input {
     width: 200px;
