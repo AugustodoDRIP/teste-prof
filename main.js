@@ -16,12 +16,12 @@ nomeInput.addEventListener("keydown", function(event) {
         let p3 = p3Input.value;
         alert("Olá " + nome + "!");
     }
-});
+}) 
+if(x1=p1);print("resposta correta");else print("resposta errada, tente de novo");
+if(x2=p2);print("resposta correta");else print("resposta errada, tente de novo");
+if(x3=p3);print("resposta correta");else print("resposta errada, tente de novo");
 
-<!--
-const(let x1=15);if(x1=p1);print("resposta correta");else print("resposta errada, tente de novo")
-const(let x2=24);if(x2=p2);print("resposta correta");else print("resposta errada, tente de novo")
-const(let x3=35);if(x3=p3);print("resposta correta");else print("resposta errada, tente de novo")-->
+
 
 
 // Adicionar evento de "keydown" para o input de cor
